@@ -1,0 +1,6 @@
+diff --git a/Python day 1 to 7/Day1/day_1.py b/Python day 1 to 7/Day1/day_1.py
+--- Python day 1 to 7/Day1/day_1.py
++++ Python day 1 to 7/Day1/day_1.py
+@@ -0,0 +1,1 @@
++print(day1activity.py)
+\ No newline at end of file

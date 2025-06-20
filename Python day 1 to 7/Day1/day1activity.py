@@ -1,0 +1,39 @@
+# activity 1
+print(3 + 4)
+print(3 - 4)
+print(3 * 4)
+print(3 / 4)
+print(3 ** 4)
+print(3 // 4)
+print(3 % 4)
+
+# activity 2
+print("John")
+print("Doe")
+print("south africa")
+print("I'm doing a 30 day python course")
+
+# activity 3
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4 - 4j))
+print(type(['Asabeneh', 'Python', 'Finland']))
+print(type("Your name"))
+print(type("Your family name"))
+print(type("Your country"))
+type(3.14)
+
+# activity 4
+print(type(10)) 
+print(type(9.8))
+print(type(3.14-4j))
+print(type('Asabh'))
+print(type('brad' == False))
+print(type(['Asabeneh', 'Python', 'Finland']))
+print(type({'first_name': 'Asabeneh', 'last_name': 'Yetayeh', 'country': 'Finland', 'age': 250, 'is_married': True}))
+
+# activity 5  between (2, 3) and (10, 8)
+def find_distance(a, b):
+    return (b-a)
+find_distance(-12, 20)
