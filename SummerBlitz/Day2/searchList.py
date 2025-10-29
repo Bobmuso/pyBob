@@ -12,3 +12,10 @@ if found:
 else:
     print("absent")
 
+my_list = [1, 2, 4, 4, 1, 4, 2, 6, 2, 9]
+
+# Convert to set to remove duplicates and back to list
+my_list = list(dict.fromkeys(my_list))
+
+print("The list with unique elements only:")
+print(my_list)
